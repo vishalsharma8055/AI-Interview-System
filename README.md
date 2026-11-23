@@ -178,8 +178,11 @@ Contributions and suggestions are welcome. For substantial changes, open an issu
 ## Author
 
 **Vishal Sharma**
+**Shivam Manchanda**
+**Ankit**
 
 GitHub: [@vishalsharma8055](https://github.com/vishalsharma8055)
+[@Shivam-Manchanda007](https://github.com/Shivam-Manchanda007)
 
 ---
 
